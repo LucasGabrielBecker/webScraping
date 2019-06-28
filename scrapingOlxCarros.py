@@ -48,4 +48,5 @@ def juntaAnuncio(execucoes):
 
 
 juntaAnuncio(5)
+#alterando vezes em que será repetido o programa
 Importar.criaBanco()
