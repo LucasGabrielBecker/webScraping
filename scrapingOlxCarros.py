@@ -47,5 +47,5 @@ def juntaAnuncio(execucoes):
             break
 
 
-juntaAnuncio(3)
+juntaAnuncio(2)
 Importar.criaBanco()
